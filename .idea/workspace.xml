@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssi_my:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89678c33-4942-45ee-aba7-4cd1e1bc9236" name="Default Changelist" comment="the templ">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssi_my_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ssi_my.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/myBatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/newfile.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/META-INF/ssi_my.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/Action/DeptAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/dao/DeptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/dao/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/entity/Dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/service/DeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/test/TestDeptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/myBatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/newfile.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/asm-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/c3p0-0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/com.springsource.net.sf.cglib-2.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jackson-core-asl-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jackson-mapper-asl-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jsf-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jsf-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/junit.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/org.hamcrest.core_1.1.0.v20090501071000.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/org.springframework.transaction-3.2.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-jdbc-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-orm-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-test-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/jsp/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/Action/DeptAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/dao/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/entity/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/test/TestDeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssi_my.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/META-INF/ssi_my.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/Action/DeptAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/dao/DeptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/dao/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/entity/Dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/service/DeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/test/TestDeptDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/myBatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/newfile.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/asm-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.net.sf.cglib-2.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-asl-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-mapper-asl-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javassist-3.17.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsf-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsf-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/junit.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org.hamcrest.core_1.1.0.v20090501071000.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.transaction-3.2.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-orm-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-test-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/jsp/main.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/Action/DeptAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/service/DeptService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/entity/Dept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/li/scm/entity/Dept.java" />
+        <option value="$PROJECT_DIR$/src/com/li/scm/dao/impl/DeptDaoImpl.java" />
+        <option value="$PROJECT_DIR$/test/com/li/scm/TestDeptDao.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/jsp/main.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/com/li/scm/dao/IDeptDao.java" />
+        <option value="$PROJECT_DIR$/src/com/li/scm/entity/DeptMapper.xml" />
+        <option value="$PROJECT_DIR$/src/com/li/scm/service/IDeptService.java" />
+        <option value="$PROJECT_DIR$/config/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/config/myBatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/com/li/scm/service/DeptService.java" />
+        <option value="$PROJECT_DIR$/src/com/li/scm/controller/DeptAction.java" />
+        <option value="$PROJECT_DIR$/src/com/li/scm/service/impl/DeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/li/scm/test/TestDeptDao.java" />
+        <option value="$PROJECT_DIR$/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/config/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/cn/itcast/scm/entity/Dept.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-325" />
+    <option name="y" value="390" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ssi_my" type="58d84e3e:PackageViewProjectNode" />
+              <item name="ssi_my" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scm" type="462c0819:PsiDirectoryNode" />
+              <item name="Action" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scm" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scm" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scm" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scm" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssi_my" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssi_my" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA_pro\ssi_my\src\com\li\scm\dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.li.scm.dao.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_pro\ssi_my\src\cn\itcast\scm\test" />
+      <recent name="E:\IDEA_pro\ssi_my\src\cn\itcast\scm\service\impl" />
+      <recent name="E:\IDEA_pro\ssi_my\src\cn\itcast\scm\service" />
+      <recent name="E:\IDEA_pro\ssi_my\src\cn\itcast\scm\entity" />
+      <recent name="E:\IDEA_pro\ssi_my\src\cn\itcast\scm\dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 6.0.39">
+    <configuration name="TestDeptDao.testInsertDept" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssi_my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.scm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li.scm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.li.scm.test.TestDeptDao" />
+      <option name="METHOD_NAME" value="testInsertDept" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDeptDao.testSelectDept" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssi_my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.li.scm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.li.scm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.li.scm.test.TestDeptDao" />
+      <option name="METHOD_NAME" value="testSelectDept" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 6.0.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 6.0.39" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="ssi_my:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ssi_my" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssi_my" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49295" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssi_my:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestDeptDao.testSelectDept" />
+      <item itemvalue="JUnit.TestDeptDao.testInsertDept" />
+      <item itemvalue="Tomcat Server.Tomcat 6.0.39" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDeptDao.testSelectDept" />
+        <item itemvalue="JUnit.TestDeptDao.testInsertDept" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89678c33-4942-45ee-aba7-4cd1e1bc9236" name="Default Changelist" comment="" />
+      <created>1563844350798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563844350798</updated>
+      <workItem from="1563844355520" duration="4274000" />
+      <workItem from="1563872411297" duration="8095000" />
+      <workItem from="1563929139891" duration="1809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestDeptDao_testSelectDept - 2019.07.23 at 09h 47m 41s.xml">
+      <configuration name="TestDeptDao.testSelectDept" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptDao_testInsertDept - 2019.07.23 at 09h 51m 27s.xml">
+      <configuration name="TestDeptDao.testInsertDept" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptDao_testSelectDept - 2019.07.23 at 21h 20m 40s.xml">
+      <configuration name="TestDeptDao.testSelectDept" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptDao_testSelectDept - 2019.07.23 at 21h 23m 43s.xml">
+      <configuration name="TestDeptDao.testSelectDept" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptDao_testSelectDept - 2019.07.23 at 21h 24m 11s.xml">
+      <configuration name="TestDeptDao.testSelectDept" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptDao_testSelectDept - 2019.07.23 at 21h 27m 50s.xml">
+      <configuration name="TestDeptDao.testSelectDept" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptDao_testSelectDept - 2019.07.23 at 21h 28m 14s.xml">
+      <configuration name="TestDeptDao.testSelectDept" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDeptDao_testSelectDept - 2019.07.23 at 21h 31m 20s.xml">
+      <configuration name="TestDeptDao.testSelectDept" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14178000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.11881188" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3427762" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="JSF" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="the templ" />
+    <option name="LAST_COMMIT_MESSAGE" value="the templ" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/li/scm/dao/package_info.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/scm/entity/package_info.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/scm/service/package_info.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/scm/service/impl/package_info.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/scm/controller/package_info.java" />
+    <entry file="file://$PROJECT_DIR$/test/com/li/scm/TestDeptDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/li/scm/dao/impl/DeptDaoImpl.java" />
+    <entry file="file://$PROJECT_DIR$/web/jsp/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/myBatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/mybatis-spring-1.2.0.jar!/org/mybatis/spring/mapper/MapperScannerConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding>
+            <element signature="e#2228#2229#0" expanded="true" />
+            <element signature="e#2274#2275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/service/impl/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/test/TestDeptDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/Action/DeptAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/newfile.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1177" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/dao/DeptMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/entity/Dept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ssi_my</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
