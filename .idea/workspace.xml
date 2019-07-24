@@ -6,131 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89678c33-4942-45ee-aba7-4cd1e1bc9236" name="Default Changelist" comment="the templ">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssi_my_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ssi_my.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/myBatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/newfile.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/META-INF/ssi_my.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/Action/DeptAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/dao/DeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/dao/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/entity/Dept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/cn/itcast/scm/test/TestDeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/myBatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/newfile.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/asm-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/c3p0-0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/com.springsource.net.sf.cglib-2.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jackson-core-asl-1.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jackson-mapper-asl-1.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jsf-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jsf-impl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/junit.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/org.hamcrest.core_1.1.0.v20090501071000.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/org.springframework.transaction-3.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-jdbc-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-orm-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-test-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ssi_my_war_exploded/jsp/main.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/Action/DeptAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/dao/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/entity/Dept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/scm/test/TestDeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssi_my.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/META-INF/ssi_my.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/Action/DeptAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/dao/DeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/dao/DeptMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/entity/Dept.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/service/DeptService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/cn/itcast/scm/test/TestDeptDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/myBatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/newfile.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/asm-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/asm-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/cglib-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.net.sf.cglib-2.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-asl-1.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-mapper-asl-1.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javassist-3.17.1-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsf-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsf-impl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/junit.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-spring-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org.hamcrest.core_1.1.0.v20090501071000.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org.springframework.transaction-3.2.2.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-orm-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-test-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/jsp/main.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="89678c33-4942-45ee-aba7-4cd1e1bc9236" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/entity/Dept.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="69" />
+            <state relative-caret-position="453">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -495,8 +371,16 @@
       <updated>1563844350798</updated>
       <workItem from="1563844355520" duration="4274000" />
       <workItem from="1563872411297" duration="8095000" />
-      <workItem from="1563929139891" duration="1809000" />
+      <workItem from="1563929139891" duration="2065000" />
     </task>
+    <task id="LOCAL-00001" summary="the templ2">
+      <created>1563931476845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563931476845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -526,11 +410,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14178000" />
+    <option name="totallyTimeSpent" value="14434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -569,7 +452,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="the templ" />
-    <option name="LAST_COMMIT_MESSAGE" value="the templ" />
+    <MESSAGE value="the templ2" />
+    <option name="LAST_COMMIT_MESSAGE" value="the templ2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/li/scm/dao/package_info.java" />
@@ -694,8 +578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/itcast/scm/entity/Dept.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="5" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="69" />
+        <state relative-caret-position="453">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
